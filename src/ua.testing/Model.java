@@ -9,7 +9,6 @@ public class Model {
     public static final int MAX_VALUE = 100;
     private List<Integer> statistics = new ArrayList<Integer>();
 
-    //private Statistic statistic;
     private int minNumber;
     private int maxNumber;
 
